@@ -21,6 +21,7 @@ public class ClientWS {
             System.out.println("Code ="+c.getCode());
             System.out.println("Sole ="+cp.getSolde());
             System.out.println("Date de création :"+cp.getDateCreation());
+            System.out.println("----------------------");
 
         }
     }
